@@ -2,3 +2,4 @@ Capítulo 1: Introducción a Git
 Capítulo 2: Flujo de trabajo github
 Capítulo 3: Repositorios remotos
 Capítulo 4: POO y SOLID
+Capítulo 5: POO, SOLID, GRASP y Patrones
